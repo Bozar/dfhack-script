@@ -1,0 +1,62 @@
+[
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "OneTime",
+		"hist_figure" : 705,
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_subtype" : "ITEM_SHOES_SOCKS",
+		"job" : "MakeShoes",
+		"material_category" : 
+		[
+			"silk"
+		]
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "OneTime",
+		"hist_figure" : 705,
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_subtype" : "ITEM_SHOES_SOCKS",
+		"job" : "MakeShoes",
+		"material_category" : 
+		[
+			"yarn"
+		]
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "OneTime",
+		"hist_figure" : 705,
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_subtype" : "ITEM_SHOES_SOCKS",
+		"job" : "MakeShoes",
+		"material_category" : 
+		[
+			"cloth"
+		]
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "OneTime",
+		"hist_figure" : 705,
+		"id" : 4,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_subtype" : "ITEM_SHOES_SHOES",
+		"job" : "MakeShoes",
+		"material_category" : 
+		[
+			"leather"
+		]
+	}
+]

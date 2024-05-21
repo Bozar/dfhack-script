@@ -1,0 +1,32 @@
+[
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "OneTime",
+		"hist_figure" : 705,
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_subtype" : "ITEM_PANTS_PANTS",
+		"job" : "MakePants",
+		"material_category" : 
+		[
+			"cloth"
+		]
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "OneTime",
+		"hist_figure" : 705,
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_subtype" : "ITEM_PANTS_PANTS",
+		"job" : "MakePants",
+		"material_category" : 
+		[
+			"leather"
+		]
+	}
+]

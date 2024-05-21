@@ -1,0 +1,21 @@
+# This file runs when DFHack is initialized, when Dwarf Fortress is first
+# started, before any world or save data is loaded.
+#
+# You can extend or override DFHack's default configuration by adding commands
+# to this file.
+
+
+# Alias
+alias add all alias list
+alias add acl autoclothing
+alias add tty tiletypes
+alias add atd autodump
+
+alias add mkbd workorder --file make_clothes_body
+alias add mklg workorder --file make_clothes_leg
+alias add mkhnd workorder --file make_clothes_hand
+alias add mkhd workorder --file make_clothes_head
+alias add mkft workorder --file make_clothes_foot
+
+alias add mkbz workorder --file make_armor_bronze
+
