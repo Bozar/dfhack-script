@@ -1,5 +1,7 @@
 # Workorders
 
+on-new-fortress 3dveins
+
 on-new-fortress workorder --file make_ash
 on-new-fortress workorder --file make_potash
 on-new-fortress workorder --file make_soap
