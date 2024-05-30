@@ -1,0 +1,160 @@
+[
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "OneTime",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : false,
+		"job" : "MakeGoblet",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "OneTime",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : false,
+		"job" : "ConstructBlocks",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "OneTime",
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : false,
+		"job" : "ConstructBag",
+		"material_category" : 
+		[
+			"leather"
+		]
+	},
+	{
+		"amount_left" : 3,
+		"amount_total" : 3,
+		"frequency" : "OneTime",
+		"id" : 4,
+		"is_active" : false,
+		"is_validated" : true,
+		"job" : "WeaveCloth",
+		"material_category" : 
+		[
+			"yarn"
+		]
+	},
+	{
+		"amount_left" : 3,
+		"amount_total" : 3,
+		"frequency" : "OneTime",
+		"id" : 5,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"yarn"
+				],
+				"item_type" : "CLOTH",
+				"value" : 3
+			}
+		],
+		"job" : "MakeChain",
+		"material_category" : 
+		[
+			"yarn"
+		]
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "OneTime",
+		"id" : 6,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_subtype" : "ITEM_TOOL_WHEELBARROW",
+		"job" : "MakeTool",
+		"material_category" : 
+		[
+			"wood"
+		]
+	},
+	{
+		"amount_left" : 3,
+		"amount_total" : 3,
+		"frequency" : "OneTime",
+		"id" : 7,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_subtype" : "ITEM_TOOL_MINECART",
+		"job" : "MakeTool",
+		"material_category" : 
+		[
+			"wood"
+		]
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "OneTime",
+		"id" : 8,
+		"is_active" : false,
+		"is_validated" : false,
+		"job" : "MakeBucket",
+		"material_category" : 
+		[
+			"wood"
+		]
+	},
+	{
+		"amount_left" : 7,
+		"amount_total" : 7,
+		"frequency" : "OneTime",
+		"id" : 9,
+		"is_active" : false,
+		"is_validated" : false,
+		"job" : "ConstructBed",
+		"material_category" : 
+		[
+			"wood"
+		]
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "OneTime",
+		"id" : 10,
+		"is_active" : false,
+		"is_validated" : true,
+		"job" : "ConstructTable",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "OneTime",
+		"id" : 11,
+		"is_active" : false,
+		"is_validated" : true,
+		"job" : "ConstructThrone",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "OneTime",
+		"id" : 12,
+		"is_active" : false,
+		"is_validated" : true,
+		"job" : "ConstructBin",
+		"material_category" : 
+		[
+			"wood"
+		]
+	}
+]

@@ -4,4 +4,5 @@ on-new-fortress workorder --file make_ash
 on-new-fortress workorder --file make_potash
 on-new-fortress workorder --file make_soap
 on-new-fortress workorder --file weave_cloth
+on-new-fortress workorder --file embark
 
