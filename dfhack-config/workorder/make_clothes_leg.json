@@ -9,7 +9,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_PANTS_PANTS",
 		"job" : "MakePants",
-		"material_category" : 
+		"material_category" :
 		[
 			"cloth"
 		]
@@ -24,7 +24,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_PANTS_PANTS",
 		"job" : "MakePants",
-		"material_category" : 
+		"material_category" :
 		[
 			"leather"
 		]

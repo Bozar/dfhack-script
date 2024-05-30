@@ -9,7 +9,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_SHOES_SOCKS",
 		"job" : "MakeShoes",
-		"material_category" : 
+		"material_category" :
 		[
 			"silk"
 		]
@@ -24,7 +24,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_SHOES_SOCKS",
 		"job" : "MakeShoes",
-		"material_category" : 
+		"material_category" :
 		[
 			"yarn"
 		]
@@ -39,7 +39,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_SHOES_SOCKS",
 		"job" : "MakeShoes",
-		"material_category" : 
+		"material_category" :
 		[
 			"cloth"
 		]
@@ -54,7 +54,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_SHOES_SHOES",
 		"job" : "MakeShoes",
-		"material_category" : 
+		"material_category" :
 		[
 			"leather"
 		]

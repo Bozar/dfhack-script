@@ -9,7 +9,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_GLOVES_GLOVES",
 		"job" : "MakeGloves",
-		"material_category" : 
+		"material_category" :
 		[
 			"cloth"
 		]
@@ -24,7 +24,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_GLOVES_GLOVES",
 		"job" : "MakeGloves",
-		"material_category" : 
+		"material_category" :
 		[
 			"leather"
 		]
@@ -39,7 +39,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_GLOVES_MITTENS",
 		"job" : "MakeGloves",
-		"material_category" : 
+		"material_category" :
 		[
 			"cloth"
 		]
@@ -54,7 +54,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_GLOVES_MITTENS",
 		"job" : "MakeGloves",
-		"material_category" : 
+		"material_category" :
 		[
 			"leather"
 		]

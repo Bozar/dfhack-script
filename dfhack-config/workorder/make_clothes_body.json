@@ -9,7 +9,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_ARMOR_SHIRT",
 		"job" : "MakeArmor",
-		"material_category" : 
+		"material_category" :
 		[
 			"cloth"
 		]
@@ -24,7 +24,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_ARMOR_SHIRT",
 		"job" : "MakeArmor",
-		"material_category" : 
+		"material_category" :
 		[
 			"leather"
 		]
@@ -39,7 +39,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_ARMOR_DRESS",
 		"job" : "MakeArmor",
-		"material_category" : 
+		"material_category" :
 		[
 			"cloth"
 		]
@@ -54,7 +54,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_ARMOR_DRESS",
 		"job" : "MakeArmor",
-		"material_category" : 
+		"material_category" :
 		[
 			"leather"
 		]
@@ -69,7 +69,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_ARMOR_ROBE",
 		"job" : "MakeArmor",
-		"material_category" : 
+		"material_category" :
 		[
 			"cloth"
 		]
@@ -84,7 +84,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_ARMOR_ROBE",
 		"job" : "MakeArmor",
-		"material_category" : 
+		"material_category" :
 		[
 			"leather"
 		]
@@ -99,7 +99,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_ARMOR_CLOAK",
 		"job" : "MakeArmor",
-		"material_category" : 
+		"material_category" :
 		[
 			"cloth"
 		]
@@ -114,7 +114,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_ARMOR_CLOAK",
 		"job" : "MakeArmor",
-		"material_category" : 
+		"material_category" :
 		[
 			"leather"
 		]

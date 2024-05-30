@@ -9,7 +9,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_HELM_CAP",
 		"job" : "MakeHelm",
-		"material_category" : 
+		"material_category" :
 		[
 			"leather"
 		]
@@ -24,7 +24,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_HELM_CAP",
 		"job" : "MakeHelm",
-		"material_category" : 
+		"material_category" :
 		[
 			"silk"
 		]
@@ -39,7 +39,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_HELM_CAP",
 		"job" : "MakeHelm",
-		"material_category" : 
+		"material_category" :
 		[
 			"yarn"
 		]
@@ -54,7 +54,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_HELM_HOOD",
 		"job" : "MakeHelm",
-		"material_category" : 
+		"material_category" :
 		[
 			"cloth"
 		]
@@ -69,7 +69,7 @@
 		"is_validated" : false,
 		"item_subtype" : "ITEM_HELM_HOOD",
 		"job" : "MakeHelm",
-		"material_category" : 
+		"material_category" :
 		[
 			"leather"
 		]
