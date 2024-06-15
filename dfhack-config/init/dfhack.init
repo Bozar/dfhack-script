@@ -7,9 +7,19 @@
 
 # Alias
 alias add all alias list
+alias add tty gui/tiletypes
+
 alias add acl autoclothing
-alias add tty tiletypes
-alias add atd autodump
+alias add tln tailor now
+
+alias add dp autodump
+alias add tp gui/teleport
+alias add cbn combine all
+
+alias add gme gui/gm-editor
+alias add gmu gui/gm-unit
+
+alias add wo-embark workorder --file embark
 
 alias add mkbd workorder --file make_clothes_body
 alias add mklg workorder --file make_clothes_leg
