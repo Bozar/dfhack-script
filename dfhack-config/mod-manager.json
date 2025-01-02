@@ -1,0 +1,127 @@
+[
+	{
+	"modlist": [
+		{
+		"id": "vanilla_text",
+		"version": 5001
+	},
+		{
+		"id": "vanilla_languages",
+		"version": 5001
+	},
+		{
+		"id": "vanilla_descriptors",
+		"version": 5001
+	},
+		{
+		"id": "vanilla_materials",
+		"version": 5001
+	},
+		{
+		"id": "vanilla_environment",
+		"version": 5010
+	},
+		{
+		"id": "vanilla_plants",
+		"version": 5009
+	},
+		{
+		"id": "vanilla_items",
+		"version": 5001
+	},
+		{
+		"id": "vanilla_buildings",
+		"version": 5001
+	},
+		{
+		"id": "vanilla_bodies",
+		"version": 5001
+	},
+		{
+		"id": "vanilla_creatures",
+		"version": 5012
+	},
+		{
+		"id": "vanilla_entities",
+		"version": 5013
+	},
+		{
+		"id": "vanilla_reactions",
+		"version": 5001
+	},
+		{
+		"id": "vanilla_interactions",
+		"version": 5001
+	},
+		{
+		"id": "vanilla_descriptors_graphics",
+		"version": 5013
+	},
+		{
+		"id": "vanilla_plants_graphics",
+		"version": 5014
+	},
+		{
+		"id": "vanilla_items_graphics",
+		"version": 5015
+	},
+		{
+		"id": "vanilla_buildings_graphics",
+		"version": 5002
+	},
+		{
+		"id": "vanilla_creatures_graphics",
+		"version": 5015
+	},
+		{
+		"id": "vanilla_world_map",
+		"version": 5001
+	},
+		{
+		"id": "vanilla_interface",
+		"version": 5012
+	},
+		{
+		"id": "vanilla_music",
+		"version": 5004
+	},
+		{
+		"id": "shy_nobles",
+		"version": 1
+	},
+		{
+		"id": "actually_red_redroot_dye",
+		"version": 10003
+	},
+		{
+		"id": "better_descriptions",
+		"version": 1
+	},
+		{
+		"id": "cazsms_squad_burrow_symbols",
+		"version": 5005
+	},
+		{
+		"id": "interface_tweaks_hotkeyless",
+		"version": 133700106
+	},
+		{
+		"id": "niemst_grind_bones_and_shells_into_flux",
+		"version": 5019
+	},
+		{
+		"id": "Sand&Clay_Anywhere",
+		"version": 1
+	},
+		{
+		"id": "shaped_gloves",
+		"version": 2
+	},
+		{
+		"id": "shaped_shoes",
+		"version": 2
+	}
+	],
+	"name": "default"
+}
+]
