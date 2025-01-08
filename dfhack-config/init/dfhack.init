@@ -5,19 +5,25 @@
 # to this file.
 
 
-# Alias
+# Internal commands
+
 alias add all alias list
+
 alias add tty gui/tiletypes
+alias add rm gui/mass-remove
+alias add tp gui/teleport
+
+alias add gme gui/gm-editor
+alias add gmu gui/gm-unit
 
 alias add acl autoclothing
 alias add tln tailor now
 
 alias add dp autodump
-alias add tp gui/teleport
 alias add cbn combine all
 
-alias add gme gui/gm-editor
-alias add gmu gui/gm-unit
+
+# Work orders
 
 alias add wo-embark workorder --file embark
 
