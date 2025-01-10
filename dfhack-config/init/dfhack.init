@@ -27,11 +27,11 @@ alias add cbn combine all
 
 alias add wo-embark workorder --file embark
 
-alias add mkbd workorder --file make_clothes_body
-alias add mklg workorder --file make_clothes_leg
-alias add mkhnd workorder --file make_clothes_hand
-alias add mkhd workorder --file make_clothes_head
-alias add mkft workorder --file make_clothes_foot
+alias add wo-cl-body workorder --file make_clothes_body
+alias add wo-cl-leg workorder --file make_clothes_leg
+alias add wo-cl-hand workorder --file make_clothes_hand
+alias add wo-cl-head workorder --file make_clothes_head
+alias add wo-cl-foot workorder --file make_clothes_foot
 
-alias add mkbz workorder --file make_armor_bronze
+alias add wo-ar-bz workorder --file make_armor_bronze
 
