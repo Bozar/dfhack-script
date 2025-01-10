@@ -27,6 +27,10 @@ alias add cbn combine all
 
 alias add wo-embark workorder --file embark
 
+alias add wo-ck workorder --file cook_lavish
+alias add wo-br-pl workorder --file brew_plant
+alias add wo-br-fr workorder --file brew_fruit
+
 alias add wo-cl-body workorder --file make_clothes_body
 alias add wo-cl-leg workorder --file make_clothes_leg
 alias add wo-cl-hand workorder --file make_clothes_hand

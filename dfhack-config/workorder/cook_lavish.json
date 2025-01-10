@@ -1,0 +1,12 @@
+[
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "OneTime",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : false,
+		"job" : "PrepareMeal",
+		"meal_ingredients" : 4
+	}
+]

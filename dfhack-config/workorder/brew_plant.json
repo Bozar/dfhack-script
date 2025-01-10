@@ -1,0 +1,12 @@
+[
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "OneTime",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : false,
+		"job" : "CustomReaction",
+		"reaction" : "BREW_DRINK_FROM_PLANT"
+	}
+]
