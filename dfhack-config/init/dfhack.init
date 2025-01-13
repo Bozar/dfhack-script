@@ -37,5 +37,12 @@ alias add wo-cl-hand workorder --file make_clothes_hand
 alias add wo-cl-head workorder --file make_clothes_head
 alias add wo-cl-foot workorder --file make_clothes_foot
 
-alias add wo-ar-bz workorder --file make_armor_bronze
+alias add wo-ar-br0 workorder --file forge_armor_bronze_core
+alias add wo-ar-br1 workorder --file forge_armor_bronze_extra
+
+alias add wo-ar-ir0 workorder --file forge_armor_iron_core
+alias add wo-ar-ir1 workorder --file forge_armor_iron_extra
+
+alias add wo-ar-st0 workorder --file forge_armor_steel_core
+alias add wo-ar-st1 workorder --file forge_armor_steel_extra
 
