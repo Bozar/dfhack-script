@@ -40,6 +40,9 @@ alias add wo-cl-foot workorder --file make_clothes_foot
 alias add wo-ar-br0 workorder --file forge_armor_bronze_core
 alias add wo-ar-br1 workorder --file forge_armor_bronze_extra
 
+alias add wo-ar-bbr0 workorder --file forge_armor_bismuth-bronze_core
+alias add wo-ar-bbr1 workorder --file forge_armor_bismuth-bronze_extra
+
 alias add wo-ar-ir0 workorder --file forge_armor_iron_core
 alias add wo-ar-ir1 workorder --file forge_armor_iron_extra
 

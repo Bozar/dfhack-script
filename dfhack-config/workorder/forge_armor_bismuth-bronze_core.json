@@ -1,0 +1,24 @@
+[
+	{
+		"amount_left" : 4,
+		"amount_total" : 4,
+		"frequency" : "OneTime",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_subtype" : "ITEM_ARMOR_MAIL_SHIRT",
+		"job" : "MakeArmor",
+		"material" : "INORGANIC:BISMUTH_BRONZE"
+	},
+	{
+		"amount_left" : 4,
+		"amount_total" : 4,
+		"frequency" : "OneTime",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_subtype" : "ITEM_HELM_HELM",
+		"job" : "MakeHelm",
+		"material" : "INORGANIC:BISMUTH_BRONZE"
+	}
+]
