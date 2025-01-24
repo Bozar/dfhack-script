@@ -12,6 +12,7 @@ alias add all alias list
 alias add tty gui/tiletypes
 alias add rm gui/mass-remove
 alias add tp gui/teleport
+alias add lq gui/liquids
 
 alias add gme gui/gm-editor
 alias add gmu gui/gm-unit
@@ -22,20 +23,13 @@ alias add tln tailor now
 alias add dp autodump
 alias add cbn combine all
 
+alias add cck cursecheck
+alias add nec necronomicon
+
 
 # Work orders
 
 alias add wo-embark workorder --file embark
-
-alias add wo-ck workorder --file cook_lavish
-alias add wo-br-pl workorder --file brew_plant
-alias add wo-br-fr workorder --file brew_fruit
-
-alias add wo-cl-body workorder --file make_clothes_body
-alias add wo-cl-leg workorder --file make_clothes_leg
-alias add wo-cl-hand workorder --file make_clothes_hand
-alias add wo-cl-head workorder --file make_clothes_head
-alias add wo-cl-foot workorder --file make_clothes_foot
 
 alias add wo-ar-br0 workorder --file forge_armor_bronze_core
 alias add wo-ar-br1 workorder --file forge_armor_bronze_extra
