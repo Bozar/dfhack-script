@@ -1,0 +1,11 @@
+[
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "OneTime",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : false,
+		"job" : "CollectSand"
+	}
+]

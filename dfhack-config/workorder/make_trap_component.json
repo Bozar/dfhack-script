@@ -1,0 +1,24 @@
+[
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "OneTime",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_subtype" : "ITEM_TRAPCOMP_ENORMOUSCORKSCREW",
+		"job" : "MakeTrapComponent",
+		"material" : "GLASS_GREEN"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "OneTime",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_subtype" : "ITEM_TRAPCOMP_LARGESERRATEDDISC",
+		"job" : "MakeTrapComponent",
+		"material" : "GLASS_GREEN"
+	}
+]

@@ -43,3 +43,8 @@ alias add wo-ar-ir1 workorder --file forge_armor_iron_extra
 alias add wo-ar-st0 workorder --file forge_armor_steel_core
 alias add wo-ar-st1 workorder --file forge_armor_steel_extra
 
+alias add wo-pump workorder --file magma_safe_pump
+alias add wo-glass workorder --file make_glass
+alias add wo-sand workorder --file collect_sand
+alias add wo-trap workorder --file make_trap_component
+
