@@ -48,3 +48,6 @@ alias add wo-glass workorder --file make_glass
 alias add wo-sand workorder --file collect_sand
 alias add wo-trap workorder --file make_trap_component
 
+alias add wo-mill workorder --file mill_plants
+alias add wo-cook workorder --file make_lavish_meal
+
